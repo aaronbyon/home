@@ -20,7 +20,7 @@
 
 [Contact me](contact.md)
 
-![create-a-cute-childrens-illustration-book-from-your-script](illu1.jpg)
+![create-a-cute-childrens-illustration-book-from-your-script](create-a-cute-childrens-illustration-book-from-your-script.jpeg)
 
 ---
 
