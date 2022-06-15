@@ -1,6 +1,4 @@
-# Aaron Byon
-
-**Illustrator and Comics colorist**
+## Illustrator and Comics colorist
 
 ---
 
@@ -22,7 +20,7 @@
 
 [Contact me](contact.md)
 
-![create-a-cute-childrens-illustration-book-from-your-script](create-a-cute-childrens-illustration-book-from-your-script.jpg)
+![create-a-cute-childrens-illustration-book-from-your-script](create-a-cute-childrens-illustration-book-from-your-script.jpeg)
 
 ---
 
